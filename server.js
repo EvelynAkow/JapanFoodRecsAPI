@@ -13,7 +13,7 @@ const foodRecs ={ ramen:[{
     streetFood:[
         {name:'Asakusa',
     image:"none",
-    description:'none'},{name:'Tsukiji fish Market',
+    description:"Asakusa is an exceptional place unlike any other! It is one of the busiest tourist destinations, especially during the summer. We reached Asakusa at 8 am, but we were not alone. Before reaching the temple, there were three isles of food and tourist gift shops to explore. However, most of these shops and food stands don't open until 9 or 10 am. I absolutely adore this location because many street vendors are selling sweet treats in addition to the beauty of the temple. This is where I purchased some of my favourite souvenirs and all the sweets I desired."},{name:'Tsukiji fish Market',
     image:"https://babblinggaijin.netlify.app/Food/images/TsukijiFishMarket1.jpg",
     description:"The food here is incredible if you know where to go! We had everything from Wagyu beef, grilled eel, fresh-cut tuna, torched tuna, raw scallops and so much more. The Market has the freshest fish and most delicious sushi. A trip here wouldn't be complete without grilled eel. I was never a fan of grilled eel before, but here it just melts in your mouth and is marvelous!"}],
     kaseki:[{name:'馳走 風々（ちそう ふふ',
@@ -21,7 +21,7 @@ const foodRecs ={ ramen:[{
     description:"Kaiseki is a whole segment of its own. This restaurant was a splendid fine dining experience. We had everything from grilled salmon to sashimi of fish I didn't even know existed. The food was sensational but what made the experience special was the people. Although none of the staff spoke any English they were very accommodating in trying to explain everything using pictures and Google Translate. In the intimate restaurant, we were the only people in there. This was an astounding experience that I will always treasure."}],
     omakase:[{name:'Japanese cruise Fujitate',
     image:"none",
-    description:'none'}],
+    description:'An Omakase was always an experience that I dreamed about doing in Japan. This quaint restaurant we walked by on our way to dinner, we noticed had very high ratings. The restaurant we planned on going to was closed and because we were hungry we decided why not try. Once we looked at the menu we noticed they had Omakase for 5500 yen which is about 55 CAD which is honestly unheard of. This included an assortment of dishes that were completely up to the chef. The restaurant was very kind to let us order one omakase and let us share. We also ordered Yuzu Wine, a very sweet fruit wine. They brought a whole new meaning to food. The food was unworldly. Completely indescribable just sensational. We loved everything they served and we ordered another omakase where the chef created a new set of dishes for us. We were shocked that everything was so delicious. The server recommended edamame ice cream for dessert, It completed the meal perfectly as it was another thing that was truly unique to the restaurant. The whole experience was insane and I would fly back to Kyoto just to eat here again.'}],
     sushi:[{name:'Maruman 丸萬',
     image:"none",
     description:'none'}],
