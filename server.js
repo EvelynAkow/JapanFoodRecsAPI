@@ -27,7 +27,7 @@ const foodRecs ={ ramen:[{
     description:'none'}],
     gyoza:[{name:'Horai 551',
     image:"none",
-    description:'In Osaka'}],
+    description:"To be fair Gyoza wasn't a dish we had often in"}],
     udon:[{name:'Breakfast Udon Express',
     image:"none",
     description:'none'}],
