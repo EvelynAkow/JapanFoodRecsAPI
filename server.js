@@ -47,10 +47,6 @@ const foodRecs ={ ramen:[{
 
 }
 
-app.get('/', (request, response)=>{
-    response.sendFile(index.html)
-})
-
 app.get('/api/:foodRecsName',(request,response)=>{
     const foodRecsName = request.params.foodRecsName.toLowerCase()
     response.json(foodRecs[foodRecsName])
