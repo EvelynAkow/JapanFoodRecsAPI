@@ -26,13 +26,13 @@ const foodRecs ={ ramen:[{
     image:"https://babblinggaijin.netlify.app/Food/images/Maruman.jpg",
     description:"Without a single doubt the best sushi restaurant we went to. As soon as we entered it felt like stepping into another world. From the hectic busy streets to a homey sweet and relaxing environment. It is a cozy atmosphere, with only one chef and one waitress serving the customers. We had an assortment of sushi it was so astounding we ordered two more plates until we were stuffed to the brim. We were so lucky we got the last two seats during dinner, there was a constant flow of customers who couldn't get seats after us."}],
     gyoza:[{name:'Horai 551',
-    image:"none",
+    image:"https://babblinggaijin.netlify.app/Food/images/Horai551.jpg",
     description:"To be fair Gyoza wasn't a dish we had often in Japan, but as soon as you see this place you know it's the place to be for Gyoza. This is a franchise and when we saw it in Osaka it always had a massive lineup. The elaborate displays and long lines are what intrigued us the most. The gyoza was crispy and addictive and I could easily eat 10. It's easy on the wallet and if you're interested in a cheap eat a definite recommendation."}],
     udon:[{name:'Breakfast Udon Express',
-    image:"none",
-    description:'As I walk down a suspicious alleyway and think this is where bad things happen, I enter a shop and am immediately relieved that this indeed is a restaurant. With an open kitchen, I am soon welcomed by the chef and the warm atmosphere. The food was delicious and made my mouth water just thinking about it. The noodles are thick the broth is flavourful. They top the dish with crispy beef intestines which to my surprise I loved. The food, the people, and the atmosphere feel like one big hug.'}],
+    image:"https://babblinggaijin.netlify.app/Food/images/breakfastUdonExpress.jpg",
+    description:'As I walk down a suspicious alleyway and think this is where bad things happen, I enter a shop and am immediately relieved that this indeed is a restaurant. With an open kitchen, I am soon welcomed by the chef and the warm atmosphere. The food was delicious and makes my mouth water just thinking about it. The noodles are thick the broth is flavourful. They top the dish with crispy beef intestines which to my surprise I loved. The food, the people, and the atmosphere feel like one big hug.'}],
     soba:[{name:'Kofune 飛騨そば 小舟',
-    image:"none",
+    image:"https://babblinggaijin.netlify.app/Food/images/Kofune.jpg",
     description:"Sadly we were in a rush when coming here but one of the most memorable things is the atmosphere. As soon as I entered I noticed the combination of floor and bench seating. Then I noticed the eclectic accumulation of artifacts on the wall, telling all kinds of stories. Special Hida beef soba was what I ordered, and as soon as it came I knew we had chosen the right restaurant it smelled scrumptious. I read about soba noodles in Hida being special. And they were some of the most delicious noodles I've ever had. They were soft and so incredible. The meat was so thin and flavourful. I only wished we had more time to savour every spoonful."}],
 
 }
