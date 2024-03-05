@@ -23,8 +23,7 @@ const foodRecs ={ ramen:[{
     location:'Tokyo',
     image:"https://babblinggaijin.netlify.app/Food/images/LittleBakeryShinjuku.jpg",
     description:'We mostly went to convenience stores for breakfast but the last few days we found this bakery that we just adored. They had a large assortment of buns, doughnuts and sandwiches. My personal favourite was a flaky doughnut that was filled with Taro paste!'}],
-    streetFood:[
-        {name:'Asakusa',
+    streetFood:[{name:'Asakusa',
         location:'Tokyo',
     image:"https://babblinggaijin.netlify.app/Food/images/Asakusa.jpg",
     description:"Asakusa is an exceptional place unlike any other! It is one of the busiest tourist destinations, especially during the summer. We reached Asakusa at 8 am, but we were not alone. Before reaching the temple, there were three isles of food and tourist gift shops to explore. However, most of these shops and food stands don't open until 9 or 10 am. I absolutely adore this location because many street vendors are selling sweet treats in addition to the beauty of the temple. This is where I purchased some of my favourite souvenirs and all the sweets I desired."},{name:'Tsukiji fish Market',
