@@ -30,7 +30,7 @@ const foodRecs ={ ramen:[{
     location:'Tokyo',
     image:"https://babblinggaijin.netlify.app/Food/images/TsukijiFishMarket2.jpg",
     description:"The food here is incredible, if you know where to go! We had everything from Wagyu beef, grilled eel, fresh-cut tuna, torched tuna, raw scallops and so much more. The Market has the freshest fish and most delicious sushi. A trip here wouldn't be complete without grilled eel. I was never a fan of grilled eel before, but here it just melts in your mouth and is marvelous!"}],
-    kaseki:[{name:'馳走 風々 ちそう ふふ',
+    kaiseki:[{name:'馳走 風々 ちそう ふふ',
     location:'Tokyo',
     image:"none",
     description:"Kaiseki is a whole segment of its own. This restaurant was a splendid fine dining experience. We had everything from grilled salmon to sashimi of fish I didn't even know existed. The food was sensational but what made the experience special was the people. Although none of the staff spoke any English they were very accommodating in trying to explain everything using pictures and Google Translate. In the intimate restaurant, we were the only people in there. This was an astounding experience that I will always treasure."}],
