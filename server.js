@@ -56,6 +56,10 @@ const foodRecs ={ ramen:[{
     location:'Takayama',
     image:"https://babblinggaijin.netlify.app/Food/images/Kofune.jpg",
     description:"Sadly we were in a rush when coming here but one of the most memorable things is the atmosphere. As soon as I entered I noticed the combination of floor and bench seating. Then I noticed the eclectic accumulation of artifacts on the wall, telling all kinds of stories. Special Hida beef soba was what I ordered, and as soon as it came I knew we had chosen the right restaurant; it smelled scrumptious. I read about soba noodles in Hida being special. And they were some of the most delicious noodles I've ever had. They were soft and so incredible. The meat was so thin and flavourful. I only wished we had more time to savour every spoonful."}],
+    street:[{name:'Asakusa',
+    location:'Tokyo',
+    image:"https://babblinggaijin.netlify.app/Food/images/Asakusa.jpg",
+    description:"Asakusa is an exceptional place unlike any other! It is one of the busiest tourist destinations, especially during the summer. We reached Asakusa at 8 am, but we were not alone. Before reaching the temple, there were three isles of food and tourist gift shops to explore. However, most of these shops and food stands don't open until 9 or 10 am. I absolutely adore this location because many street vendors are selling sweet treats in addition to the beauty of the temple. This is where I purchased some of my favourite souvenirs and all the sweets I desired."}],
 
 }
 
